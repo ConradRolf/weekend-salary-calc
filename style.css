@@ -4,9 +4,13 @@ table{
     border-collapse: collapse;
   }
   table, th, td{
-    border: 1px solid #6C220B;
+    border: 1px solid black;
   }
   table th, table td{
     padding: 8px;
     text-align: left;
-  }
+}
+
+#monthlyCap{
+    background-color: chartreuse;
+}
